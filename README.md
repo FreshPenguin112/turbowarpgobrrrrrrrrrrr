@@ -1,6 +1,7 @@
-# Mirror
+# MirrorJsjs
 
 https://mirror.turbowarp.xyz/
+
 
 These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
 
